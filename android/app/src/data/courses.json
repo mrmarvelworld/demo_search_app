@@ -1,0 +1,183 @@
+[
+    {
+      "title": "Financial Accounting Basics",
+      "author": {"name": "Alice Smith"},
+      "chapters": [
+        {"title": "Introduction to Financial Accounting", "number": 1},
+        {"title": "Recording Transactions", "number": 2},
+        {"title": "Financial Statements Analysis", "number": 3}
+      ]
+    },
+    {
+      "title": "Managerial Accounting Fundamentals",
+      "author": {"name": "Bob Johnson"},
+      "chapters": [
+        {"title": "Introduction to Managerial Accounting", "number": 1},
+        {"title": "Cost Behavior", "number": 2},
+        {"title": "Budgeting and Forecasting", "number": 3}
+      ]
+    },
+    {
+      "title": "Intermediate Financial Accounting",
+      "author": {"name": "Emily Davis"},
+      "chapters": [
+        {"title": "Revenue Recognition", "number": 1},
+        {"title": "Inventory Valuation", "number": 2},
+        {"title": "Long-term Liabilities", "number": 3}
+      ]
+    },
+    {
+      "title": "Advanced Auditing Techniques",
+      "author": {"name": "David Wilson"},
+      "chapters": [
+        {"title": "Audit Planning", "number": 1},
+        {"title": "Risk Assessment", "number": 2},
+        {"title": "Fraud Detection", "number": 3}
+      ]
+    },
+    {
+      "title": "Taxation Principles",
+      "author": {"name": "Jennifer Lee"},
+      "chapters": [
+        {"title": "Tax Law Fundamentals", "number": 1},
+        {"title": "Individual Taxation", "number": 2},
+        {"title": "Corporate Taxation", "number": 3}
+      ]
+    },
+    {
+      "title": "Cost Accounting Essentials",
+      "author": {"name": "Michael Brown"},
+      "chapters": [
+        {"title": "Cost Concepts", "number": 1},
+        {"title": "Job Order Costing", "number": 2},
+        {"title": "Activity-Based Costing", "number": 3}
+      ]
+    },
+    {
+      "title": "Forensic Accounting Techniques",
+      "author": {"name": "Jessica Martinez"},
+      "chapters": [
+        {"title": "Forensic Accounting Overview", "number": 1},
+        {"title": "Investigative Techniques", "number": 2},
+        {"title": "Legal Procedures", "number": 3}
+      ]
+    },
+    {
+      "title": "International Accounting Standards",
+      "author": {"name": "Richard Thompson"},
+      "chapters": [
+        {"title": "IFRS vs. GAAP", "number": 1},
+        {"title": "Consolidated Financial Statements", "number": 2},
+        {"title": "Foreign Currency Translation", "number": 3}
+      ]
+    },
+    {
+      "title": "Accounting Information Systems",
+      "author": {"name": "Samantha White"},
+      "chapters": [
+        {"title": "Database Management", "number": 1},
+        {"title": "Internal Controls", "number": 2},
+        {"title": "ERP Systems", "number": 3}
+      ]
+    },
+    {
+      "title": "Governmental Accounting Practices",
+      "author": {"name": "Thomas Robinson"},
+      "chapters": [
+        {"title": "Funds Accounting", "number": 1},
+        {"title": "Budgetary Accounting", "number": 2},
+        {"title": "Financial Reporting", "number": 3}
+      ]
+    },
+    {
+      "title": "Financial Risk Management",
+      "author": {"name": "Sophia Adams"},
+      "chapters": [
+        {"title": "Risk Identification", "number": 1},
+        {"title": "Derivatives Markets", "number": 2},
+        {"title": "Credit Risk Management", "number": 3}
+      ]
+    },
+    {
+      "title": "Accounting for Small Businesses",
+      "author": {"name": "William Moore"},
+      "chapters": [
+        {"title": "Bookkeeping Basics", "number": 1},
+        {"title": "Financial Statements for Small Businesses", "number": 2},
+        {"title": "Tax Planning", "number": 3}
+      ]
+    },
+    {
+      "title": "Corporate Finance Principles",
+      "author": {"name": "Olivia Clark"},
+      "chapters": [
+        {"title": "Capital Budgeting", "number": 1},
+        {"title": "Financial Markets and Institutions", "number": 2},
+        {"title": "Dividend Policy", "number": 3}
+      ]
+    },
+    {
+      "title": "Financial Modeling Techniques",
+      "author": {"name": "Daniel Evans"},
+      "chapters": [
+        {"title": "Financial Forecasting", "number": 1},
+        {"title": "Valuation Methods", "number": 2},
+        {"title": "Sensitivity Analysis", "number": 3}
+      ]
+    },
+    {
+      "title": "Ethics in Accounting",
+      "author": {"name": "Emma Garcia"},
+      "chapters": [
+        {"title": "Professional Responsibilities", "number": 1},
+        {"title": "Conflicts of Interest", "number": 2},
+        {"title": "Whistleblowing", "number": 3}
+      ]
+    },
+    {
+      "title": "Financial Statement Analysis",
+      "author": {"name": "Andrew Cooper"},
+      "chapters": [
+        {"title": "Horizontal and Vertical Analysis", "number": 1},
+        {"title": "Ratio Analysis", "number": 2},
+        {"title": "Cash Flow Analysis", "number": 3}
+      ]
+    },
+    {
+      "title": "Investment Analysis and Portfolio Management",
+      "author": {"name": "Sophie Turner"},
+      "chapters": [
+        {"title": "Risk and Return", "number": 1},
+        {"title": "Asset Allocation", "number": 2},
+        {"title": "Portfolio Performance Evaluation", "number": 3}
+      ]
+    },
+    {
+      "title": "Financial Reporting Standards",
+      "author": {"name": "Matthew Harris"},
+      "chapters": [
+        {"title": "Conceptual Framework", "number": 1},
+        {"title": "Revenue Recognition", "number": 2},
+        {"title": "Leases and Financial Instruments", "number": 3}
+      ]
+    },
+    {
+      "title": "Financial Econometrics",
+      "author": {"name": "Sophia Roberts"},
+      "chapters": [
+        {"title": "Time Series Analysis", "number": 1},
+        {"title": "Regression Analysis", "number": 2},
+        {"title": "Volatility Modeling", "number": 3}
+      ]
+    },
+    {
+      "title": "Accounting for Nonprofit Organizations",
+      "author": {"name": "Nathan Hill"},
+      "chapters": [
+        {"title": "Nonprofit Financial Statements", "number": 1},
+        {"title": "Fund Accounting", "number": 2},
+        {"title": "Compliance and Reporting", "number": 3}
+      ]
+    }
+  ]
+  
